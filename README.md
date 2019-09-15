@@ -3,7 +3,7 @@
 Quickly send photos from the camera to VK.com dialog using a key combination. User connect camera to computer then open a VK.com dialog in browser and press key combination. Latest photo from camera is immediately added to the message.
 
 #### Keyboard combination
-1. `«Ctrl + Space»` - insert the last (by creation date) photo from the “DCIM\100NCD90\” directory. Pressing the **“Ctrl + Space”** combination **again within 60 seconds** after the first allows you to insert the second from the end photo. The next press of the combination is insert the third from the end photo, etc.
+1. `«Ctrl + Space»` - insert the last (by creation date) photo from the “DCIM\100NCD90\” directory. Pressing the **“Ctrl + Space”** combination **again within 60 seconds** after the first allows you to insert the second from the end photo. The next press of the combination is insert the third from the end photo, etc. If between pressing “Ctrl + Space” **more than 60 seconds** have passed, catalog with photos is re-indexed and the last photo is inserted. If after a few keystrokes “Ctrl + Space” a **single sound signal** is heard, list of photos has ended, that is, all photos from the catalog have been inserted.
 2. `«Ctrl + R»` – indexing of directory, after a double sound signal. Timer is reset in 60 seconds, catalog is indexed and after the next pressing of the combination **“Ctrl + Space”** the last photo in the catalog will be inserted.
 3. `«Ctrl + Q»` – forced program termination after a triple sound signal.
 
